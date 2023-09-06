@@ -1,0 +1,5 @@
+Read in a file full of numbers, one number on each line
+Represent those numbers as integers in your program
+Replace each number with that number times its line number
+Write the file out elsewhere
+And complete the task right now at your computer as fast as possible, you’re being timed
