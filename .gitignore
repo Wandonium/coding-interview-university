@@ -23,4 +23,4 @@ Thumbs.db
 .vscode
 
 # Video Files
-.mp4
+*.mp4
