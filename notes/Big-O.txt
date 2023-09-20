@@ -1,3 +1,9 @@
-- Big O is not always about how fast an algorithm is executed. Rather it's more about how the algorithm scales with more input.
+- Big O is not always about how fast an algorithm is executed. Rather it's more about how the algorithm scales with more input. It's about how many steps the algorithm takes for each given number of inputs. A worst case complexity of an algorithm is where the algorithm takes the maximum number of steps to complete for a given number of inputs while a best case complexity is where the algorithm takes the minimum number of steps.
+
+- What would the reasoning be on buying a lottery ticket on the basis of best, worst and average-case complexity? Best case => you win all the money. Worst case => you lose the money you spent to buy the ticket. Average case => same as worst case.
+
+- O(n) => Worst case complexity.
+- Omega(n) => Best case complexity.
+- Theta(n) => Average case complexity.
 
 - Simple example of an algorithm with a Big-O of O(log(n)) => searching through an already sorted array using Binary Search.
