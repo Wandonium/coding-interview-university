@@ -6,4 +6,9 @@
 - Omega(n) => Best case complexity.
 - Theta(n) => Average case complexity.
 
+- asymptotic analysis => asymptotic means approaching a value or curve arbitrarily closely.
+- Big O notation is used to denote the upper bounds of a function.
+
 - Simple example of an algorithm with a Big-O of O(log(n)) => searching through an already sorted array using Binary Search.
+
+- Big O Notation does not care about constant factors in your function's runtime. This is such that the complexity analysis is only dependent on the algorithm and not on the hardware it runs on.
