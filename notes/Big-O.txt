@@ -12,3 +12,14 @@
 - Simple example of an algorithm with a Big-O of O(log(n)) => searching through an already sorted array using Binary Search.
 
 - Big O Notation does not care about constant factors in your function's runtime. This is such that the complexity analysis is only dependent on the algorithm and not on the hardware it runs on.
+
+- Common Big O functions smallest to largets =>
+    - O(1) => constant time
+    - O(log(n)) => logarithmic time
+    - O(log(n)^2) => log-squared time
+    - O(sqrt(n)) => root n time
+    - O(n) => linear time
+    - O(nlog(n)) => 
+    - O(n^2) => quadratic time
+    - O(n^3) => cubic time
+    - O(2^n) => exponential time
